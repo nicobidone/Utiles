@@ -70,3 +70,4 @@ public class MouseTracker extends JFrame implements MouseListener, MouseMotionLi
     }
 }
 
+//http://mrbool.com/creating-a-simple-mouse-analyzer-with-java-swing/24507
